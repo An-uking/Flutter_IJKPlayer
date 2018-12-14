@@ -1,0 +1,50 @@
+group 'cn.ugle.plugin.ijkplayer'
+version '1.0-SNAPSHOT'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.2.1'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 27
+
+    defaultConfig {
+        minSdkVersion 16
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        ndk {
+            abiFilters "arm64-v8a", "armeabi-v7a"
+        }
+
+    }
+    lintOptions {
+        disable 'InvalidPackage'
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['src/main/jniLibs']
+        }
+    }
+}
+
+dependencies{
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation "tv.danmaku.ijk.media:ijkplayer-java:0.8.8"
+    implementation "tv.danmaku.ijk.media:ijkplayer-exo:0.8.8"
+    // implementation files('libs/flutter.jar')
+}
