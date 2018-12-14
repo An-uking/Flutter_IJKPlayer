@@ -6,7 +6,12 @@
 改用Texture实现了另一个ijkplayer版本，现在基本完成了,也摆脱
 了用flatformview实现过程中遇到的问题。
 
+
 有技术问题可联系我qq:189316826
+
+## IJKPlayer options 
+
+ijplayer options及点播、直播优化设置请自己百度
 
 ## Getting Started
 
