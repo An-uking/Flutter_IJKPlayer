@@ -1,6 +1,6 @@
 # Flutter_IJKPlayer Plugin
 
-## Build on AndroidView And UIKitView
+## 1.Build On AndroidView And UIKitView
 这个Flutter IJKPlayer 插件是基于platformview开发的，
 实现了一大部分功能，还有一些功能没去做，开发者可以自行下载修改
 增加其他功能。由于性能上有问题，还有一些其他问题，中途就放弃了。
@@ -10,12 +10,12 @@
 
 有技术问题可联系我qq:189316826
 
-### IJKPlayer options 
+### IJKPlayer Options 
 
 ijplayer options及点播、直播优化设置请自己百度
 
 
-## Build On Texture Component
+## 2.Build On Texture Component
 
 ### Android APK
 ```
