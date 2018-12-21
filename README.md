@@ -14,12 +14,12 @@
 ijplayer options及点播、直播优化设置请自己百度
 
 ## base on Texture component 
-[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0260.JPG" width="270" height="480">]
-[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0261.JPG" width="270" height="480">]
-[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0262.JPG" width="270" height="480">]
-[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0263.JPG" width="270" height="480">]
-[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0264.JPG" width="270" height="480">]
-[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0265.JPG" width="270" height="480">]
-[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0266.JPG" width="270" height="480">]
-[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0267.JPG" width="270" height="480">]
+<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0260.JPG" width="270" height="480">
+<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0261.JPG" width="270" height="480">
+<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0262.JPG" width="270" height="480">
+<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0263.JPG" width="270" height="480">
+<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0264.JPG" width="270" height="480">
+<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0265.JPG" width="270" height="480">
+<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0266.JPG" width="270" height="480">
+<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0267.JPG">
 
