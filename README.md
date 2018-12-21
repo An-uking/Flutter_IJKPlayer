@@ -1,4 +1,4 @@
-# Flutter_IJKPlayer
+# Flutter_IJKPlayer Plugin
 
 这个Flutter IJKPlayer 插件是基于platformview开发的，
 实现了一大部分功能，还有一些功能没去做，开发者可以自行下载修改
@@ -9,17 +9,17 @@
 
 有技术问题可联系我qq:189316826
 
-## IJKPlayer options 
+## IJKPlayer options (build on Texture component)
 
 ijplayer options及点播、直播优化设置请自己百度
 
 ## Android APK
 ```
-    scan the qrcode, download and test Flutter_IJKPlayer on Android
+scan the qrcode, download and test Flutter_IJKPlayer on Android
 ```
 <img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/1545422510.png" width="200" height="200">
 
-## Snaphosts on IOS
+## Snaphosts on IOS (build on Texture component)
 <img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0260.JPG" width="270" height="480" align="left">
 <img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0261.JPG" width="270" height="480" align="left">
 <img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0262.JPG" width="270" height="480" align="left">
