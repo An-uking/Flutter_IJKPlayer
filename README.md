@@ -13,7 +13,7 @@
 
 ijplayer options及点播、直播优化设置请自己百度
 
-## Android Test APK
+## Android APK
 ```
     scan the qrcode, download and test Flutter_IJKPlayer on Android
 ```
