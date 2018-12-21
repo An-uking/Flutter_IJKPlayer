@@ -1,4 +1,4 @@
-# ijkplayer
+# Flutter_IJKPlayer
 
 这个Flutter IJKPlayer 插件是基于platformview开发的，
 实现了一大部分功能，还有一些功能没去做，开发者可以自行下载修改
@@ -14,12 +14,12 @@
 ijplayer options及点播、直播优化设置请自己百度
 
 ## base on Texture component 
-![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0260.JPG?raw=true)
-![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0261.JPG?raw=true)
-![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0262.JPG?raw=true)
-![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0263.JPG?raw=true)
-![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0264.JPG?raw=true)
-![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0265.JPG?raw=true)
-![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0266.JPG?raw=true)
-![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0267.JPG?raw=true)
+[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0260.JPG" width="270" height="480">]
+[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0261.JPG" width="270" height="480">]
+[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0262.JPG" width="270" height="480">]
+[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0263.JPG" width="270" height="480">]
+[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0264.JPG" width="270" height="480">]
+[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0265.JPG" width="270" height="480">]
+[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0266.JPG" width="270" height="480">]
+[<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0267.JPG" width="270" height="480">]
 
