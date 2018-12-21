@@ -13,9 +13,13 @@
 
 ijplayer options及点播、直播优化设置请自己百度
 
-## Getting Started
+## base on Texture component 
+![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0260.JPG?raw=true)
+![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0261.JPG?raw=true)
+![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0262.JPG?raw=true)
+![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0263.JPG?raw=true)
+![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0264.JPG?raw=true)
+![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0265.JPG?raw=true)
+![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0266.JPG?raw=true)
+![image](https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0267.JPG?raw=true)
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-
-For help on editing plugin code, view the [documentation](https://flutter.io/developing-packages/#edit-plugin-package).
