@@ -23,7 +23,7 @@ scan the qrcode, download and test Flutter_IJKPlayer on Android
 ```
 <img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/1545422510.png" width="200" height="200">
 
-### Snaphosts on IOS
+### Snapshots on IOS
 <img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0260.JPG" width="270" height="480" align="left">
 <img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0261.JPG" width="270" height="480" align="left">
 <img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/IMG_0262.JPG" width="270" height="480" align="left">
