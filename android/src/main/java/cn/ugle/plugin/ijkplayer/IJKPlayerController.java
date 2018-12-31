@@ -227,7 +227,7 @@ public class IJKPlayerController implements PlatformView, MethodChannel.MethodCa
     }
 
     private void setPlaySeed(float seed){
-        mVideoView.setSpeed(seed);
+        // mVideoView.setSpeed(seed);
     }
 
 }
