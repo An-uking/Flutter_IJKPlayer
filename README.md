@@ -29,8 +29,9 @@ scan the qrcode, download and test Flutter_IJKPlayer on Android
 ### 抖音效果
 
 <img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/QQ%E6%88%AA%E5%9B%BE20190216150720.png" width="270" height="480" align="left">
-<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/QQ%E6%88%AA%E5%9B%BE20190216150720.png" width="270" height="480" align="left">
-<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/QQ%E6%88%AA%E5%9B%BE20190216150720.png" width="270" height="480" align="left">
+<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/QQ图片20190322205813.jpg?raw=true" width="270" height="480" align="left">
+<img src="https://github.com/An-uking/Flutter_IJKPlayer/blob/master/snapshot/QQ图片20190322205804.jpg?raw=true" width="270" height="480" align="left">
+
 
 <br>
 
