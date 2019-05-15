@@ -21,7 +21,9 @@ ijplayer options及点播、直播优化设置请自己百度
 ## 2.Build On Texture Component
 
 ### 开源时间 10月1号
-开源时间定为10月1，到时正式更名为Flutter_NBMediaPlayer
+开源时间定为10月1，到时正式更名为 Flutter_NBMediaPlayer
+项目地址：https://github.com/An-uking/Flutter_NBMediaPlayer
+
 
 ### Android APK
 ```
